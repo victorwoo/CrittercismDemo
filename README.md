@@ -1,4 +1,1 @@
-CrittercismDemo
-===============
-
-Demo for Crittercism
+DON'T PANIC
